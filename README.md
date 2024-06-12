@@ -1,5 +1,5 @@
 # DSC-214-Final-Project
-Spring 2024 DSC 214 Topological Data Analysis Final Project - Cell Type Hierarchical Clustering
+Spring 2024 DSC 214 Topological Data Analysis 
 
 ## Instructor
 - Zhengchao Wan
