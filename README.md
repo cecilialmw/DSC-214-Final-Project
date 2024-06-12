@@ -27,7 +27,7 @@ Upon establishing the Vietoris-Rips filtration from this point cloud data, we ob
 ## Documentation
 The dataset we used is not publicaly available. In order to run **DSC_214_Finalized.ipynb** with your own dataset, please change the variable `file_path` accordingly in the *Data Loading* section.
 
-This project works specifically with single-cell RNA-sequencing data in *.h5ad* format. Therefore, please make sure your dataset is in this format to ensure minimal modification. If you want to load a differnt formatted dataset, please modifiy the function `load_and_process_h5ad()` in the *Functions -> Basic* section accordingly.
+This project works specifically with single-cell RNA-sequencing data in *.h5ad* format. Therefore, please make sure your dataset is in this format to ensure minimal modification. If you want to load a different formatted dataset, please modifiy the function `load_and_process_h5ad()` in the *Functions -> Basic* section accordingly.
 
 This notebook does not support saving plot as a seperate file. 
 - To save persistent diagram, please modify the function `plot_dgm()` in the *Functions -> Basic* section
