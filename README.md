@@ -50,6 +50,6 @@ This notebook supports creating gene co-expression distance using Pearson correl
   - You can change the `pixel_size`, `birth_range`, `weight_params` accordingly. This can be helpful, for example, if you want to make sure the start-to-end range fits your data. For more customizable options, please check out the `persim` documentaion.
 - `persistence_img_resize()` in *Functions -> Persistence Image*
   - This step is crucial because the persistence images are not the same size after fixing the `pixel_size`(resolution). In order to compute the p-norm of their difference, we need to resize them to the same shape. 
-  - For the padding option, current target padding size the largest width and the largest height among all images.
+  - For the padding option, current target padding size is the largest width and the largest height among all images.
   - For the resize option, the current target new shape is `(10, 3)`. As for our project, the result of resizing persistence image using this option is not ideal. However, it might be a case-by-case situation, expecially with a better shape choice.
   
