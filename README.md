@@ -1,5 +1,5 @@
 # DSC-214-Final-Project
-Spring 2024 DSC 214 Topological Data Analysis 
+DSC 214 Topological Data Analysis - Spring 2024
 
 ## Instructor
 - Zhengchao Wan
