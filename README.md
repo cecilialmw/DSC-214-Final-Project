@@ -23,9 +23,10 @@ Upon establishing the Vietoris-Rips filtration from this point cloud data, we ob
   - Project outline
 - **DSC_214_final_report.pdf**
 - **DSC_214_final_report.zip**
-  - Include all files
-- Final video presentation slides (.pdf)
-
+  - Include all files on Overleaf
+- **DSC 214 final project.pdf**
+  - Slides for video presentation  
+  
 ## Configuration
 We run the notebook on google Colab with 51GB RAM. The maximum usage is approximately 50GB. Therefore, if you wish to run this notebook with a larger dataset, especially if the cell count of a perticular cell type is larger than the cell count of the oligodendrocyte in our dataset, you might need to modify the `cell_df()` in *Functions -> Basic* to parallelize the process.
 
