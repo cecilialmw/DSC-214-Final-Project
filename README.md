@@ -21,7 +21,7 @@ Upon establishing the Vietoris-Rips filtration from this point cloud data, we ob
   - Original version of the project notebook including discarded ideas, redundant installation/imports etc.
 - **dsc 214 final project outline.pdf**
   - Project outline
-- Final report (.pdf)
+- **DSC_214_final_report.pdf**
 - Final video presentation slides (.pdf)
 
 ## Configuration
