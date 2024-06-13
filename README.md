@@ -28,7 +28,7 @@ Upon establishing the Vietoris-Rips filtration from this point cloud data, we ob
 We run the notebook on google Colab with 51GB RAM. The maximum usage is approximately 50GB. Therefore, if you wish to run this notebook with a larger dataset, especially if the cell count of a perticular cell type is larger than the cell count of the oligodendrocyte in our dataset, you might need to modify the `cell_df()` in *Functions -> Basic* to parallelize the process.
 
 ## Documentation
-The dataset we used is not publicaly available. In order to run **DSC_214_Finalized.ipynb** with your own dataset, please change the variable `file_path` accordingly in the *Data Loading* section.
+The dataset we used is from *Human Brain Cell Atlas*. In order to run **DSC_214_Finalized.ipynb** with your own dataset, please change the variable `file_path` accordingly in the *Data Loading* section.
 
 This project works specifically with single-cell RNA-sequencing data in *.h5ad* format. Therefore, please make sure your dataset is in this format to ensure minimal modification. If you want to load a different formatted dataset, please modifiy the function `load_and_process_h5ad()` in the *Functions -> Basic* section accordingly.
 
