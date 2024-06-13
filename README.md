@@ -1,4 +1,4 @@
-# Classification of Cell Types through Topological Data Analysis of Gene Co-Expression Networks
+# Classification of Cell Types through Topological Data Analysis of Gene Co-Expression Distance
 DSC 214 Topological Data Analysis - Spring 2024
 
 ## Instructor
