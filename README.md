@@ -1,4 +1,4 @@
-# DSC-214-Final-Project
+# Classification of Cell Types through Topological Data Analysis of Gene Co-Expression Networks
 DSC 214 Topological Data Analysis - Spring 2024
 
 ## Instructor
