@@ -22,6 +22,8 @@ Upon establishing the Vietoris-Rips filtration from this point cloud data, we ob
 - **dsc 214 final project outline.pdf**
   - Project outline
 - **DSC_214_final_report.pdf**
+- **DSC_214_final_report.zip**
+  - Include all files
 - Final video presentation slides (.pdf)
 
 ## Configuration
